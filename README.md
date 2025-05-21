@@ -6,7 +6,7 @@ A machine learning web application that predicts the likelihood of heart disease
 
 ## 🚀 Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](your-streamlit-app-url)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([your-streamlit-app-url](https://heart-disease-predictor-05.streamlit.app/))
 
 ---
 
