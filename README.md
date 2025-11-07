@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction App
+# ❤️ Heart Disease Prediction App Using Machine Learning
 
 A machine learning web application that predicts the likelihood of heart disease using patient data. Built using **Logistic Regression** and deployed with **Streamlit**.
 
